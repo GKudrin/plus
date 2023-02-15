@@ -16,7 +16,7 @@ main()
 			break;
 		case 3:
 			printf("Wednesday");
-			break
+			break;
 		case 4:
 			printf("Thursday");
 			break;
