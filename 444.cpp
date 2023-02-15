@@ -18,18 +18,18 @@ main()
 			printf("Wednesday");
 			break;
 		case 4:
-			printf("Thursday");
+		    printf("Thursday");
 			break;
 		case 5:
 		    printf("Friday");
 			break;
 		case 6:
-		    printf("Saturday");
+	        printf("Saturday");
 			break;
 		case 7:
 		    printf("Sunday");
 			break;
 		default:
-			printf("Error");						
+		    printf("Error");						
 	}
 }
