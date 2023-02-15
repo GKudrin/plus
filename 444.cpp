@@ -30,6 +30,6 @@ main()
 			printf("Sunday");
 			break;
 		default:
-		    printf("Error");						
+			printf("Error");						
 	}
 }
